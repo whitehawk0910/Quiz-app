@@ -16,7 +16,7 @@
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#tools-used">Technology Used</a> •
-  <a href="#contributers-to-this-project">Contributors</a> •
+ 
 </p>
 
 
